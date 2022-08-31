@@ -33,4 +33,5 @@ if __name__ == '__main__': #Estou dizendo aqui que assim que inicializar esse pr
     start()
 
 
-# {os.linesep}: serve para quebrar a linha
+### {os.linesep}: serve para quebrar a linha
+
